@@ -8,7 +8,7 @@ close all   % Cierra todas las ventanas de gráficas abiertas
 
 %% Parámetros físicos del dron
 
-m = 1.2;      % Masa del dron (kg)
+m = .8;      % Masa del dron (kg)
 g = 9.81;     % Aceleración de la gravedad (m/s^2)
 
 %% Parámetros del controlador PID
